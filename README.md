@@ -1,5 +1,7 @@
 # Rock & Haul
 
+> **AI-assisted project:** This plugin was developed with AI coding assistance. Expect bugs, rough edges, and unexpected behaviour. It is a community project, not an official COVAS:Next feature. Bug reports and constructive feedback are welcome.
+
 Find a rock. Fill the hold. Find a buyer.
 
 Read-only COVAS:Next action plugin, no API key or extra dependencies. EDTools supplies
