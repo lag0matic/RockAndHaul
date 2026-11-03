@@ -1,0 +1,11 @@
+{
+  "guid": "1cf37a28-e13d-4a8e-91a5-6bc238b079d0",
+  "name": "Rock & Haul",
+  "key": "RockAndHaul",
+  "version": "0.3.0",
+  "author": "Lag0matic",
+  "description": "Find a rock. Fill the hold. Find a buyer. Read-only mine-and-sell planning using EDTools and Spansh with a 20-minute cache.",
+  "permissions": "actions",
+  "entrypoint": "RockAndHaul.py",
+  "settings": {}
+}
